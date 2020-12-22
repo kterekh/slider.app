@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet"
+        type="text/css"
+        href="styles/slider_styles.css"/>
+  <link rel="stylesheet"
+        type="text/css"
+        href="styles/app_styles.css"/>
+</head>
+<body>
+<script>
+  const renderDOM = (config, parent = document.body) => {
+    const {nodeName} = config
+    //create element
+    let newElement = document.createElement(nodeName)
+    parent.append(newElement)
+    //set innerText & innerHTML
+    if (config.hasOwnProperty('innerText')) {
+      newElement.innerText = config.innerText
+    } else if (config.hasOwnProperty('innerHtml')) {
+      newElement.innerHTML = config.innerHtml
+    }
+    // set attribute
+    if (config.attrs) {
+      Object.entries(config.attrs).forEach(attribute => {
+        newElement.setAttribute(attribute[0], attribute[1])
+      })
+    }
+    //render children
+    if (config.children) {
+      config.children.forEach(child => {
+        renderDOM(child, newElement)
+      })
+    }
+    return newElement
+  }
+</script>
+<script src="js/slider.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

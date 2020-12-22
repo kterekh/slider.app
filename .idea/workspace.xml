@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f036a9e-f86c-4b15-a2bf-b368bdabe176" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/app_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/slider_styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ldzXvH4YIywMQEPLiIa8FG4Ngx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f036a9e-f86c-4b15-a2bf-b368bdabe176" name="Default Changelist" comment="" />
+      <created>1607941798695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607941798695</updated>
+      <workItem from="1607941799986" duration="3914000" />
+      <workItem from="1607949963042" duration="8288000" />
+      <workItem from="1608023035340" duration="33680000" />
+      <workItem from="1608132242117" duration="27734000" />
+      <workItem from="1608281814379" duration="23709000" />
+      <workItem from="1608487171512" duration="11245000" />
+      <workItem from="1608536173120" duration="51191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="121" key="FileChooserDialogImpl" timestamp="1608491164898">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1607952013941" />
+    <state x="505" y="121" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608491164898" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1608111670422">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1608111670422" />
+    <state x="115" y="136" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608112383459">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="115" y="136" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1608112383459" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1608564208433">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1608564208433" />
+    <state x="430" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1608211564822">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608211564822" />
+  </component>
+</project>
